@@ -1,1 +1,1 @@
-Pare te ajudar a resolver cálculos de trigonometria
+Alguns métodos para te ajudar a resolver cálculos de trigonometria
